@@ -10,7 +10,7 @@ Alfred workflow of Heweather:fire:
 $ tq [city name]
 ```
 
-![gTKF7j.png](https://t1.picb.cc/uploads/2019/10/03/gTKF7j.png)
+![tq.png](https://i.loli.net/2019/10/03/1TOtWwAbd2CDIGS.png)
 
 ## 注意
 本项目中使用的API_KEY有使用次数限制。

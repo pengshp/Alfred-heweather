@@ -11,7 +11,7 @@ reload(sys)
 sys.setdefaultencoding("utf8")
 
 API_KEY = "405fb5e9d79a4215a4a32d61241a5849"
-url = "https://free-api.heweather.net/s6/weather/now?"
+url = "https://devapi.heweather.net/v7/weather/now?"
 kv = {"User-Agent": "Mozilla/5.0"}
 
 
